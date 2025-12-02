@@ -9,7 +9,7 @@
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ff/59/d1ff597a-5b74-50f9-3b98-a671997b70f7/app.png/1200x630bb.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/clickcharts">
+<a href="https://mac-apps-install.github.io/.github/clickcharts">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
